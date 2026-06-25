@@ -8,9 +8,9 @@ Porque cada idea que nace en tu corazón es una meta esperando que la conviertas
 
 No importa qué tan grande parezca, lo importante es empezar, intentarlo y no rendirse. 🌸
 
-<h2 align="center">🌱 Sobre mí</h2>
+<h2>🌱 Sobre mí</h2>
 
-<p align="center" style="line-height: 1.5;">
+<p style="line-height: 1.5;">
 💻 Estudiante de Desarrollo de Software<br>
 🌐 Me gusta crear páginas web<br>
 🎨 Me gusta dibujar<br>
