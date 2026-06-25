@@ -1,26 +1,30 @@
-## Hi there 👋
+<h1 align="center">¡Hola! 👋</h1>
 
-Hola, soy Rosmery Sigaran, una alumna de Desarrollo de Software 💻✨  
-Soy una persona que cree en los sueños y en la magia de intentarlo todo.
+<p align="center">
+Soy Rosmery Sigaran, estudiante de Desarrollo de Software 💻.<br>
+Soy una persona que cree en los sueños y en la magia de intentarlo todo ✨
+</p>
 
-💭 *“Si puedes soñarlo, puedes hacerlo…”*  
-Porque cada idea que nace en tu corazón es una meta esperando que la conviertas en realidad. 💪
+<h2 align="center">🌱 Sobre mí</h2>
 
-No importa qué tan grande parezca, lo importante es empezar, intentarlo y no rendirse. 🌸
+<h3 align="center">💻 Estudiante de Desarrollo de Software.</h3>
+<h3 align="center">🌐 Me gusta crear páginas web.</h3>
+<h3 align="center">🎨 Me gusta dibujar.</h3>
+<h3 align="center">🎵 Me gusta escuchar música.</h3>
+<h3 align="center">📚 Me apasiona aprender y mejorar constantemente.</h3>
+<h3 align="center">🚀 Siempre buscando nuevas oportunidades para crecer y desarrollarme.</h3>
+
+<p align="center">
+💭 <b>“Si puedes soñarlo, puedes hacerlo…”</b><br>
+Cada idea que nace en tu corazón es una meta esperando que la conviertas en realidad 💪
+</p>
+
+<p align="center">
+✨ No importa qué tan grande parezca, lo importante es empezar, intentarlo y no rendirse.
+</p>
 
 ---
 
-<!--
-**Rosmery23sg/Rosmery23sg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Gracias por visitar mi perfil 🌸
+</p>
