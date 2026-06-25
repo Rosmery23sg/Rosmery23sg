@@ -1,9 +1,9 @@
-## Hi there 👋
+¡HOLA!👋
 
 Hola, soy Rosmery Sigaran, una alumna de Desarrollo de Software 💻✨  
 Soy una persona que cree en los sueños y en la magia de intentarlo todo.
 
-💭 *“Si puedes soñarlo, puedes hacerlo…”*  
+💭 *“Si puedes soñarlo, puedes hacerlo”*  
 Porque cada idea que nace en tu corazón es una meta esperando que la conviertas en realidad. 💪
 
 No importa qué tan grande parezca, lo importante es empezar, intentarlo y no rendirse. 🌸
